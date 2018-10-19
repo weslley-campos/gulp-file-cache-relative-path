@@ -1,0 +1,35 @@
+{
+  "name": "gulp-cache-relative-path",
+  "description": "gulp-cache-relative-path",
+  "readmeFilename": "README.md",
+  "keywords": [
+    "gulp",
+    "cache",
+    "relative path"
+  ],
+  "version": "0.0.1",
+  "author": {
+    "name": "Weslley Campos",
+    "email": "weslley_campos@outlook.com",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weslley-campos/gulp-cache-relative-path"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "gulp-util": "2.x",
+    "through2": "0.x"
+  },
+  "deprecated": false,
+  "devDependencies": {
+    "chai": "*",
+    "gulp-filelog": "~0.2.0",
+    "mocha": "*"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.2.10"
+  },
+  "main": "index.js"
+}
